@@ -1,0 +1,85 @@
+html {
+    height: 100%;
+}
+.body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.Sidebar{
+    height: 100vh;
+    width: 280px;
+    background-color: #2C3E50;
+}
+
+.fondouser {
+    width: 280px;
+    height: 200px;
+    position: absolute;
+    z-index: 200px;
+    margin-top: 0px;
+    margin-left: 0;
+    
+    
+    
+    
+}
+
+.userlogo{
+    width: 120px;
+    height: 120px;
+    margin-top: 25px;
+    margin-left: 78px;
+    position: absolute;
+    z-index: 4000;
+
+}
+
+.estatus{
+    position: absolute;
+    z-index: 5000;
+    padding-top: 160px;
+    padding-left: 80px;
+    color: white;
+    font-size: medium;
+}
+
+.dashboard{
+    position: fixed;
+    height: 70px;
+    width: 284px;
+    margin-top: 280px;
+    z-index: 224244;
+    color: black;
+    margin-left: -35px;
+    border: hidden;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+   
+    
+    
+}
+.estudiantes{
+    position: fixed;
+    z-index: 224244;
+    color: black;
+    padding-top: 390px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+}
+
+.profesores{
+
+    position: fixed;
+    z-index: 224244;
+    color: black;
+    padding-top: 490px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+
+}
+
